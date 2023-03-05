@@ -11,4 +11,25 @@ h1,
 h2,
 h3 {
     color: brown;
+    font-style: italic;
+
+}
+h1 {
+    font-size: 80px;
+    text-align: justify;
+}
+h2 {
+    font-size: 40px;
+    margin-top: 0;
+}
+.mojefoto {
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+
+
+.section {
+    50px 15%
 }
