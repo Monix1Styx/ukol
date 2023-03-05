@@ -1,0 +1,14 @@
+body {
+
+    color: green;
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1,5;
+    margin: 0 0 0 0;
+}
+
+h1, 
+h2,
+h3 {
+    color: brown;
+}
